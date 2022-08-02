@@ -1,0 +1,138 @@
+{
+  "main": {
+    "id": "22b7e15d4175f2b7",
+    "type": "split",
+    "children": [
+      {
+        "id": "b2ea0763c3e94073",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "99-templates/20-4-quarterly.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e3af8a3a57dafc05",
+    "type": "split",
+    "children": [
+      {
+        "id": "09aa0b3fc334d527",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f9717f834f252da1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "ff2d0a87faec55d7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4a8a46814df8dd3c",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a92b5d9456e168c7",
+    "type": "split",
+    "children": [
+      {
+        "id": "9601af6c4ea0cd92",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d3525438c4688a9c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "99-templates/20-4-quarterly.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "00ca0a68e65c92e9",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "99-templates/20-4-quarterly.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d38999fd9d9f39dd",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "050844fb14e6a27b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "99-templates/20-4-quarterly.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "b2ea0763c3e94073",
+  "lastOpenFiles": [
+    "99-templates/20-3-monthly.md",
+    "99-templates/20-5-yearly.md",
+    "99-templates/20-2-weekly.md",
+    "99-templates/20-1-daily.md"
+  ]
+}
