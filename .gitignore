@@ -6,6 +6,6 @@
 .trash/
 .DS_Store
 
-# exclude icon folder
-icons/
-obsidian-icon-folder/
+# # exclude icon folder
+# icons/
+# obsidian-icon-folder/
