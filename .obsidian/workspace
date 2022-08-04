@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "00-indexes/periodic-index.md",
+            "file": "20-periodic-notes/25-yearly/2022.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00-indexes/periodic-index.md",
+                "file": "20-periodic-notes/25-yearly/2022.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00-indexes/periodic-index.md",
+                "file": "20-periodic-notes/25-yearly/2022.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00-indexes/periodic-index.md"
+                "file": "20-periodic-notes/25-yearly/2022.md"
               }
             }
           },
@@ -138,15 +138,15 @@
   },
   "active": "b6ef55bf16bb5223",
   "lastOpenFiles": [
-    "20-periodic-notes/21-daily/2022.08.01 - Mon.md",
-    "20-periodic-notes/21-daily/2022.08.02 - Tue.md",
-    "20-periodic-notes/21-daily/2022.08.03 - Wed.md",
-    "20-periodic-notes/25-yearly/2022.md",
-    "20-periodic-notes/21-daily/2022.08.04 - Thu.md",
-    "20-periodic-notes/23-monthly/2022-08.md",
-    "20-periodic-notes/21-daily/2022.07.31 - Sun.md",
     "20-periodic-notes/22-weekly/2022-W32.md",
+    "20-periodic-notes/23-monthly/2022-08.md",
     "20-periodic-notes/23-monthly/2022-07.md",
-    "20-periodic-notes/23-monthly/2022-06.md"
+    "20-periodic-notes/23-monthly/2022-06.md",
+    "99-templates/25-yearly.md",
+    "99-templates/24-quarterly.md",
+    "99-templates/23-monthly.md",
+    "99-templates/22-weekly.md",
+    "99-templates/21-daily.md",
+    "00-indexes/periodic-index.md"
   ]
 }
