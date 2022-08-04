@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "b2ea0763c3e94073",
+        "id": "b6ef55bf16bb5223",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "99-templates/20-4-quarterly.md",
+            "file": "00-indexes/periodic-index.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "99-templates/20-4-quarterly.md",
+                "file": "00-indexes/periodic-index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "99-templates/20-4-quarterly.md",
+                "file": "00-indexes/periodic-index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,22 +117,36 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "99-templates/20-4-quarterly.md"
+                "file": "00-indexes/periodic-index.md"
               }
             }
+          },
+          {
+            "id": "4e7178d79af606f8",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
-  "active": "b2ea0763c3e94073",
+  "active": "b6ef55bf16bb5223",
   "lastOpenFiles": [
-    "99-templates/20-3-monthly.md",
-    "99-templates/20-5-yearly.md",
-    "99-templates/20-2-weekly.md",
-    "99-templates/20-1-daily.md"
+    "20-periodic-notes/21-daily/2022.08.01 - Mon.md",
+    "20-periodic-notes/21-daily/2022.08.02 - Tue.md",
+    "20-periodic-notes/21-daily/2022.08.03 - Wed.md",
+    "20-periodic-notes/25-yearly/2022.md",
+    "20-periodic-notes/21-daily/2022.08.04 - Thu.md",
+    "20-periodic-notes/23-monthly/2022-08.md",
+    "20-periodic-notes/21-daily/2022.07.31 - Sun.md",
+    "20-periodic-notes/22-weekly/2022-W32.md",
+    "20-periodic-notes/23-monthly/2022-07.md",
+    "20-periodic-notes/23-monthly/2022-06.md"
   ]
 }

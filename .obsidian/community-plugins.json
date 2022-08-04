@@ -3,5 +3,8 @@
   "templater-obsidian",
   "obsidian-admonition",
   "obsidian-tasks-plugin",
-  "periodic-notes"
+  "periodic-notes",
+  "heatmap-calendar",
+  "calendar",
+  "obsidian-icon-shortcodes"
 ]

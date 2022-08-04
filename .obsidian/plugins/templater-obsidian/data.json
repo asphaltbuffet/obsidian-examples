@@ -1,0 +1,45 @@
+{
+  "command_timeout": 5,
+  "templates_folder": "99-templates",
+  "templates_pairs": [
+    [
+      "",
+      ""
+    ]
+  ],
+  "trigger_on_file_creation": true,
+  "auto_jump_to_cursor": false,
+  "enable_system_commands": false,
+  "shell_path": "",
+  "user_scripts_folder": "",
+  "enable_folder_templates": true,
+  "folder_templates": [
+    {
+      "folder": "20-periodic-notes/21-daily",
+      "template": "99-templates/21-daily.md"
+    },
+    {
+      "folder": "20-periodic-notes/22-weekly",
+      "template": "99-templates/22-weekly.md"
+    },
+    {
+      "folder": "20-periodic-notes/23-monthly",
+      "template": "99-templates/23-monthly.md"
+    },
+    {
+      "folder": "20-periodic-notes/24-quarterly",
+      "template": "99-templates/24-quarterly.md"
+    },
+    {
+      "folder": "20-periodic-notes/25-yearly",
+      "template": "99-templates/25-yearly.md"
+    }
+  ],
+  "syntax_highlighting": true,
+  "enabled_templates_hotkeys": [
+    ""
+  ],
+  "startup_templates": [
+    ""
+  ]
+}
