@@ -1,0 +1,152 @@
+{
+  "main": {
+    "id": "22b7e15d4175f2b7",
+    "type": "split",
+    "children": [
+      {
+        "id": "b6ef55bf16bb5223",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "00-indexes/periodic-index.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e3af8a3a57dafc05",
+    "type": "split",
+    "children": [
+      {
+        "id": "09aa0b3fc334d527",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f9717f834f252da1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "ff2d0a87faec55d7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4a8a46814df8dd3c",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a92b5d9456e168c7",
+    "type": "split",
+    "children": [
+      {
+        "id": "9601af6c4ea0cd92",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d3525438c4688a9c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "00-indexes/periodic-index.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "00ca0a68e65c92e9",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "00-indexes/periodic-index.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d38999fd9d9f39dd",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "050844fb14e6a27b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "00-indexes/periodic-index.md"
+              }
+            }
+          },
+          {
+            "id": "4e7178d79af606f8",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "b6ef55bf16bb5223",
+  "lastOpenFiles": [
+    "20-periodic-notes/21-daily/2022.08.01 - Mon.md",
+    "20-periodic-notes/21-daily/2022.08.02 - Tue.md",
+    "20-periodic-notes/21-daily/2022.08.03 - Wed.md",
+    "20-periodic-notes/25-yearly/2022.md",
+    "20-periodic-notes/21-daily/2022.08.04 - Thu.md",
+    "20-periodic-notes/23-monthly/2022-08.md",
+    "20-periodic-notes/21-daily/2022.07.31 - Sun.md",
+    "20-periodic-notes/22-weekly/2022-W32.md",
+    "20-periodic-notes/23-monthly/2022-07.md",
+    "20-periodic-notes/23-monthly/2022-06.md"
+  ]
+}

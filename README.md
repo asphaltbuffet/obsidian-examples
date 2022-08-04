@@ -1,2 +1,3 @@
 # obsidian-examples
-Example vault for my personal obsidian environment
+
+See the wiki for more details on setup and configuration.

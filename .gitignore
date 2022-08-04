@@ -1,0 +1,11 @@
+# exclude workspace cache
+# .obsidian/workspace
+
+
+# exclude OS settings and caches
+.trash/
+.DS_Store
+
+# exclude icon folder
+icons/
+obsidian-icon-folder/

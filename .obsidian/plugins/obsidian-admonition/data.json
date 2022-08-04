@@ -1,0 +1,74 @@
+{
+  "userAdmonitions": {
+    "overdue": {
+      "type": "overdue",
+      "color": "255, 0, 0",
+      "icon": {
+        "name": "running",
+        "type": "font-awesome"
+      },
+      "command": false,
+      "title": "Overdue",
+      "injectColor": true,
+      "noTitle": false,
+      "copy": false
+    },
+    "calendar": {
+      "type": "calendar",
+      "color": "61, 164, 119",
+      "icon": {
+        "name": "calendar-day",
+        "type": "font-awesome"
+      },
+      "command": false,
+      "title": "Planned Events",
+      "injectColor": true,
+      "noTitle": false
+    },
+    "due-soon": {
+      "type": "due-soon",
+      "color": "65, 190, 73",
+      "icon": {
+        "name": "calendar-check",
+        "type": "font-awesome"
+      },
+      "command": false,
+      "title": "Due Soon",
+      "injectColor": true,
+      "noTitle": false
+    },
+    "unfinished": {
+      "type": "unfinished",
+      "color": "215, 158, 35",
+      "icon": {
+        "name": "list-ol",
+        "type": "font-awesome"
+      },
+      "command": false,
+      "title": "Due Today",
+      "injectColor": true,
+      "noTitle": false
+    }
+  },
+  "syntaxHighlight": false,
+  "copyButton": false,
+  "version": "9.0.3",
+  "autoCollapse": false,
+  "defaultCollapseType": "open",
+  "injectColor": true,
+  "parseTitles": true,
+  "dropShadow": true,
+  "hideEmpty": false,
+  "open": {
+    "admonitions": true,
+    "icons": true,
+    "other": true,
+    "advanced": true
+  },
+  "icons": [],
+  "useFontAwesome": true,
+  "rpgDownloadedOnce": false,
+  "msDocConverted": false,
+  "useSnippet": false,
+  "snippetPath": "custom-admonitions.ce9807"
+}
